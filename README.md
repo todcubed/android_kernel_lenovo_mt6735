@@ -1,5 +1,5 @@
 # Lenovo TB3-730X kernel source
-This is the kernel source for the Lenovo TB3-730X
+This is the kernel source (3.18.19) for the Lenovo TB3-730X
 ## Specs
 | Specification | Details |
 |---|---|
